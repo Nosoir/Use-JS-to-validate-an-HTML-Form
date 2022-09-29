@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#mensajeAlerta {
+  display: none;
+}
+
+#radios {
+  background: gray;
+}
